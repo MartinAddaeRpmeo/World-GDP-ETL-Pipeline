@@ -17,9 +17,15 @@ Schedule the ETL with cron
 
 ### Technologies Used
 Python
+
 BeautifulSoup & Requests – scraping
+
 Pandas – data manipulation
+
 SQLite & SQLAlchemy – database storage
+
 Matplotlib / Seaborn – visualization
+
 cron – scheduling automation
+
 Logging – process monitoring
