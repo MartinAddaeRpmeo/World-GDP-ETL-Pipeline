@@ -5,6 +5,7 @@ It includes a cron job setup to schedule the ETL pipeline automatically.
 ### Project Features
 scrape GDP data from Wikipedia
 Clean and transform data
+
 Save raw data as CSV
 Load cleaned data into SQLite
 Visualize the top 10 countries by GDP
