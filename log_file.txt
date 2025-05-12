@@ -1,0 +1,5 @@
+2025-05-06-14:18:48,Etl Process Starting
+2025-05-06-14:18:48,Extraction of Data
+2025-05-06-14:18:50,Data Transformation
+2025-05-06-14:18:50,Loading of data
+2025-05-06-14:18:50,Data querying for countries with GDP over 100Billion
