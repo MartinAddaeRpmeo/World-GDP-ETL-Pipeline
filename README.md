@@ -32,4 +32,5 @@ Logging – process monitoring
 ### Visualization Top 10 Countries by GDP
 The bar chart below shows the top 10 economies based on GDP (in USD billions).
 This was generated as part of the transformation and analysis step.
+
 ![Image](https://github.com/user-attachments/assets/a27020fe-8351-4907-9655-d9f8902411f5)
