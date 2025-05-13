@@ -1,6 +1,5 @@
 # World-GDP-ETL-Pipeline
-This project automates the process of scraping GDP data from a Wikipedia archive, filters countries with a GDP over $100 billion, stores the data in a local database, and visualizes the top 10 economies.
-It includes a cron job setup to schedule the ETL pipeline automatically.
+This project automates the process of scraping GDP data from a Wikipedia archive, filters countries with a GDP over $100 billion, stores the cleaned data in a local SQLite database, and visualizes the top 10 economies. A cron job is also set up to run the ETL pipeline on a scheduled basis.
 
 ### Project Features
 scrape GDP data from Wikipedia
@@ -29,3 +28,8 @@ Matplotlib / Seaborn – visualization
 cron – scheduling automation
 
 Logging – process monitoring
+
+### Visualization Top 10 Countries by GDP
+The bar chart below shows the top 10 economies based on GDP (in USD billions).
+This was generated as part of the transformation and analysis step.
+![Image](https://github.com/user-attachments/assets/a27020fe-8351-4907-9655-d9f8902411f5)
